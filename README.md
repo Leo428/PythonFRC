@@ -1,5 +1,5 @@
 # PythonFRC
-
+![alt text][logo]
 [logo]: https://github.com/Leo428/PythonFRC/blob/master/2016-Logo.png "Logo Title Text 2"
 
 This is going to be a projects for team 1138's FRC robots development. 
