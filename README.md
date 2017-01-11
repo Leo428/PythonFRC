@@ -23,9 +23,8 @@ This project needs [RobotPy](http://robotpy.readthedocs.io/en/stable/) to run or
 ```python 
 import this
 ```
->
-  Beautiful is better than ugly.
-  Explicit is better than implicit.
+>  Beautiful is better than ugly.
+>  Explicit is better than implicit.
   Simple is better than complex.
   Complex is better than complicated.
   Flat is better than nested.
