@@ -20,7 +20,7 @@ This project needs [RobotPy](http://robotpy.readthedocs.io/en/stable/) to run or
 - Therefore, anything here will be and wrttien for our needs and deployed under our enviroment! 
 
 ### The Zen of Python
-- > Beautiful is better than ugly.
+> - Beautiful is better than ugly.
 - > Explicit is better than implicit.
 - > Simple is better than complex.
 - > Complex is better than complicated.
