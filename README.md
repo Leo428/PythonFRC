@@ -19,9 +19,11 @@ This project needs [RobotPy](http://robotpy.readthedocs.io/en/stable/) to run or
 - Remember, this is a project for team 1138, Eagle Engineerings.
 - Therefore, anything here will be and wrttien for our needs and deployed under our enviroment! 
 
-### The Zen of Python
+### The Zen of Python by Tim Peters
 ```python 
 import this
+```
+<
   Beautiful is better than ugly.
   Explicit is better than implicit.
   Simple is better than complex.
@@ -41,6 +43,6 @@ import this
   If the implementation is hard to explain, it's a bad idea.
   If the implementation is easy to explain, it may be a good idea.
   Namespaces are one honking great idea -- let's do more of those!
-```
+
 - _This is quoting from the famous python author, hope you guys learn from it and hope my project is blessed and protected 
 by the spirit of python!_
