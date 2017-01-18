@@ -8,7 +8,6 @@ There are lots of objects I am going to achieve in this project.
   - First, I would like to experiment the possibility for the team to switch to Python coding on the robot instead of C++  
   - Second, new feature will be tested and added into this project, such as ^Vision Processing^!
   
-Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
 
 ### Installation
 
@@ -45,3 +44,8 @@ import this
 
 - _This is quoting from the famous python author, hope you guys learn from it and hope my project is blessed and protected 
 by the spirit of python!_
+
+# FRC Scouting App & Strategy App
+- [Website](https://leo428.github.io/Scout/)
+- [Scouting](https://github.com/Leo428/Scout)
+- [Strategy](https://github.com/Leo428/Strategy_App)
